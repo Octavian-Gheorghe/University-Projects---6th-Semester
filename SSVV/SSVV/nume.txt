@@ -1,0 +1,36 @@
+Tema: 0
+Nota: 10.0
+Predata in saptamana: 14
+Deadline: 14
+Feedback: 10
+
+Tema: 1
+Nota: 10.0
+Predata in saptamana: 10
+Deadline: 10
+Feedback: 10
+
+Tema: 2
+Nota: 10.0
+Predata in saptamana: 13
+Deadline: 13
+Feedback: 10
+
+Tema: 3
+Nota: 7.5
+Predata in saptamana: 13
+Deadline: 12
+Feedback: 10
+
+Tema: 4
+Nota: 10.0
+Predata in saptamana: 11
+Deadline: 11
+Feedback: 10
+
+Tema: 5
+Nota: 10.0
+Predata in saptamana: 14
+Deadline: 14
+Feedback: 10
+
