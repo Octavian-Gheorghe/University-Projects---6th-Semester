@@ -1,0 +1,11 @@
+{
+	"LOG_LEVEL": "DEBUG",
+	"SUMMARIZE_ENABLED":true,
+	"ELASTICSEARCH_URL": "",
+	"INDEX_NAME": "",
+	"HUGGINGFACE_MODEL": "sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2",
+	"CHUNK_SIZE": 1000,
+	"CHUNK_OVERLAP": 400,
+    "SYSTEM_PROMPT": "You must answer using only phrases or sentences found directly in the provided context (Paper ID, Title, Abstract). Do not infer, guess, or summarize loosely. If multiple papers match, list their IDs briefly. If the question cannot be answered from the text, say 'I don't know.' Respond in under three sentences, preserving original meaning exactly. Chat History: {chat_history} Question: {question} Context: {context} Direct Extract Answer:",
+	"CHROMA_PERSIST_DIR": "./chroma_db"
+}

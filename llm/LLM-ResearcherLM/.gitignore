@@ -1,0 +1,30 @@
+# Ignore Chroma DBs
+chroma_db/
+copy of chroma db*/
+
+# Ignore database files
+*.sqlite3
+
+# Ignore evaluation CSVs
+*.csv
+
+# Ignore checkpoints and hashes
+.ingest_checkpoint
+.seen_hashes.json
+
+# Ignore deep evaluation folders
+.deepeval/
+
+# Ignore Python bytecode
+__pycache__/
+*.pyc
+*.pyo
+
+# Optional: Ignore virtual environments (if you create one)
+.venv/
+env/
+venv/
+
+# Optional: Ignore system-specific files
+.DS_Store
+Thumbs.db
