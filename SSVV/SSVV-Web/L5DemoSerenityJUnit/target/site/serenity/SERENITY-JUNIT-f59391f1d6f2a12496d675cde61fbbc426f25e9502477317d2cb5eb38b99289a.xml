@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="0" name="org.example.features.login.InvalidLoginStory" skipped="0" tests="2" time="14.21" timestamp="2025-05-21 05:18:33"><testcase classname="org.example.features.login.InvalidLoginStory" name="Attempting to login with invalid data"/></testsuite>
